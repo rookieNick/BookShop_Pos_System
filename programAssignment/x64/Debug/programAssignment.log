@@ -1,0 +1,9 @@
+﻿  programAssignment.c
+C:\Users\User\Desktop\College courses\Year 1 Semester 1\AACS1074 PROGRAMMING CONCEPTS AND DESIGN I\Assignment\programAssignment\programAssignment\programAssignment.c(133,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\College courses\Year 1 Semester 1\AACS1074 PROGRAMMING CONCEPTS AND DESIGN I\Assignment\programAssignment\programAssignment\programAssignment.c(138,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\College courses\Year 1 Semester 1\AACS1074 PROGRAMMING CONCEPTS AND DESIGN I\Assignment\programAssignment\programAssignment\programAssignment.c(143,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\College courses\Year 1 Semester 1\AACS1074 PROGRAMMING CONCEPTS AND DESIGN I\Assignment\programAssignment\programAssignment\programAssignment.c(39,7): warning C4101: 'isInvalid': unreferenced local variable
+C:\Users\User\Desktop\College courses\Year 1 Semester 1\AACS1074 PROGRAMMING CONCEPTS AND DESIGN I\Assignment\programAssignment\programAssignment\programAssignment.c(335,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\User\Desktop\College courses\Year 1 Semester 1\AACS1074 PROGRAMMING CONCEPTS AND DESIGN I\Assignment\programAssignment\programAssignment\programAssignment.c(503,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\College courses\Year 1 Semester 1\AACS1074 PROGRAMMING CONCEPTS AND DESIGN I\Assignment\programAssignment\programAssignment\programAssignment.c(518,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  programAssignment.vcxproj -> C:\Users\User\Desktop\College courses\Year 1 Semester 1\AACS1074 PROGRAMMING CONCEPTS AND DESIGN I\Assignment\programAssignment\x64\Debug\programAssignment.exe
